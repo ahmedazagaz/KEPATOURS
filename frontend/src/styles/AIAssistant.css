@@ -1,0 +1,145 @@
+.containerAI {
+  background-color: #ffffff;
+  padding: 20px;
+  box-shadow: 0 4px 6px 4px rgba(227, 227, 227, 0.429);
+  width: 450px;
+  margin: 0 auto; /* Center the container horizontally */
+  margin-top: -54.7%; /* Adjust the top margin to position it above the center */
+  border-radius: 30px;
+  margin-left: 15%;
+}
+
+
+
+.containerAI h1 {
+  font-size: 22px;
+  text-align: center;
+  color: #070d2dd4;
+  font-weight: bold;
+}
+
+.containerAI p {
+  color: #070d2dd4;
+  text-align: center;
+  font-size: 14px;
+}
+
+.img_Kepa {
+  max-width: 210px;
+  position: relative;
+  left: 100px;
+  border-radius: 10px;
+  scroll-margin-right: 2%;
+  margin-inline-start: 1px;
+}
+
+.my-button {
+  background-color:  #0ACC95;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 30px;
+}
+
+.containerQuis {
+  background-color: #ffffff;
+  padding: 20px;
+  box-shadow: 0 4px 6px 4px rgba(227, 227, 227, 0.429);
+  width: 450px;
+  margin-left: 55%;
+  border-radius: 15px;
+  
+}
+
+.containerQuis h1 {
+  font-size: 15px;
+  color: #070d2dd4;
+  font-weight: bold;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+
+.containerQuis p {
+  color: #070d2dd4;
+  font-size: 14px;
+}
+
+.text1{
+ 
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 25px;
+  color: #070d2dd4;
+  font-weight: bold;
+  margin-left: 55%;
+
+}
+
+
+
+
+/* Base styles */
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #070d2d;
+  margin: 0;
+  padding: 0;
+}
+
+/* FAQs section */
+.faqs {
+  padding: 40px;
+}
+
+.faqs-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #070d2d;
+  margin-bottom: 32px;
+  text-align: center;
+}
+
+.faq-items-container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center; 
+}
+
+.faq-item {
+  box-shadow: 0 1px 2px rgba(10, 204, 149, 0.5);
+  width: 70%;
+  border-radius: 6px;
+  padding: 15px;
+  background-color: #fff;
+}
+
+.faq-question {
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.faq-answer {
+  font-size: 1rem;
+  margin: 0;
+}
+
+/* FAQ arrows */
+.ri-arrow-up-s-line,
+.ri-arrow-down-s-line {
+  font-size: 15px;
+  
+  transition: transform 0.3s ease;
+}
+
+.ri-arrow-up-s-line.rotate,
+.ri-arrow-down-s-line.rotate {
+  transform: rotate(180deg); 
+}

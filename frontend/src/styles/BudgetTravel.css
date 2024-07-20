@@ -1,0 +1,112 @@
+/* Container styling */
+.budget-tracker-container {
+  background-color: rgba(243, 243, 243, 0.64);
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* Headings */
+.centered-heading {
+  text-align: center;
+  font-size: 24px;
+  margin-top: 20px;
+  color: #333;
+}
+
+.arial-font h1 {
+  font-size: 32px;
+  color: #333;
+}
+
+.arial-font h3 {
+  font-size: 24px;
+  color: #de9c2a;
+}
+
+/* Image styling */
+.finance-image {
+  display: block;
+  margin: 20px auto;
+  width: 100%;
+  max-width: 400px;
+  border-radius: 10px;
+}
+
+/* Input groups */
+.input-group {
+  margin-bottom: 20px;
+}
+
+.input-number,
+.input-text,
+.select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  transition: border-color 0.3s;
+}
+
+.input-number:focus,
+.input-text:focus,
+.select:focus {
+  outline: none;
+  border-color: #19b385;
+}
+
+/* Buttons */
+.add-expense-button,
+.save-pdf-button,
+.visit-lindy-button {
+  width: 100%;
+  padding: 12px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.add-expense-button:hover,
+.save-pdf-button:hover,
+.visit-lindy-button:hover {
+  background-color: #555;
+}
+
+.visit-lindy-button {
+  background-color: #4CAF50;
+}
+
+.visit-lindy-button:hover {
+  background-color: #45a049;
+}
+
+/* Budget info table */
+.budget-info {
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}

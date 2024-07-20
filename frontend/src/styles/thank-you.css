@@ -1,0 +1,28 @@
+.thank-you-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 85vh;
+   
+}
+
+.thank__you {
+    background-color: #ffffff; 
+    padding: 3rem 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for depth */
+}
+
+.thank__you span i {
+    font-size: 2rem;
+}
+
+.thank__you h1 {
+    font-size: 2.6rem;
+    color: #333; 
+}
+
+.thank__you h3 {
+    font-size: 1.5rem;
+    color: #555; 
+}

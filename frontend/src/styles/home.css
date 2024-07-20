@@ -1,0 +1,204 @@
+
+.hero__content h1{
+    font-size: 3.1rem;
+    font-weight: 600;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    color: var(--heading-color);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.hero__content h1 .highlight{
+    color :var(--secondary-color);
+}
+.hero__content p{
+    font-size: 1.1rem;
+    color: var(--text-color);
+    line-height: 2rem;
+
+
+}
+.hero__img-box img {
+    width: 220%;
+    position: relative; 
+    left : 160px; 
+    border-radius: 50px;
+    border: 1px solid var(--secondary-color);
+    object-fit: cover;
+}
+
+
+.services_subtitle{
+    font-size: 2.2rem;
+    font-weight: 500;
+    color:#ffffff;
+    font-family: var(--subtitle-font-name);
+
+    
+}
+
+.services_title {
+    color: #ffffff;
+    font-size: 2.2rem;
+    font-weight: bold;
+    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.services_sub {
+    color:  #48ac93;;
+    font-size: 2.2rem;
+    font-weight: bold;
+    font-family: var(--subtitle-font-name);
+    
+    
+}
+
+.featured__tour-title{
+    font-size: 2.2rem;
+    font-weight: 500;
+    font-weight: bold;
+    color: #070d2dd4;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+.featured2__tour-title{
+    font-size: 200%;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #070d2dd4;
+
+}
+
+.featured__tour-title{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+  }
+
+  
+  .featured__tour-title p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.high {
+    font-size: 18px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    font-weight:bold;
+    color: #313135;
+  }
+
+.prix {
+    display: flex;
+    align-items: center;
+    
+}
+
+.prix img {
+    width: 8%;
+   
+    margin-right: 18px; 
+    margin-bottom: 10px;
+}
+
+.prix_p{
+    color: #8f8c8c;
+    position: absolute;
+    left: 11%;
+    
+    
+
+}
+
+.voyager {
+    display: flex;
+    align-items: center;
+}
+
+.voyager img {
+    width: 8%;  
+    margin-right: 18px; 
+    margin-bottom: 10px;
+}
+.voyager_p{
+    color: #8f8c8c;
+    position: absolute;
+    left: 11%;
+}
+.casque {
+    display: flex;
+    align-items: center;
+}
+
+.casque img {
+    width: 8%;  
+    margin-right: 18px; 
+    margin-bottom: 10px;
+}
+.casque_p{
+    color: #8f8c8c;
+    position: absolute;
+    left: 11%;
+}
+   
+.icon_title {
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+   
+}
+
+.hero__sahera1 Img{
+
+    width: 200%;
+    position: relative; 
+    left : 700px; 
+    border-radius: 20px;
+    border: 1px solid var(--secondary-color);
+    object-fit: cover;
+
+}
+    
+.hero__img-box2 img {
+    width: 220%;
+    position: relative; 
+    left : 160px; 
+    border-radius: 50px;
+    border: 1px solid var(--primary-color);
+    object-fit: cover;
+}
+
+.tistimonial__title{
+    font-size: 2rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color:#070d2dd4;
+
+}
+
+.testimonial {
+
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: #5d5d5d;
+font-size: 15px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+
+.img_comment {
+    border-radius: 60%;
+    width: 60px; 
+    height: 60px; 
+    
+}
+
+.testimonial p {
+
+font-style: italic;
+}

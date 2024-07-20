@@ -1,0 +1,141 @@
+.chat-container {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+}
+
+.content-container {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+.image-container {
+    width: 41%;
+    height: 70cqb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.chat-interface {
+    flex: 1;
+    margin: 0 10px;
+}
+
+.chat-box {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-height: 400px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #53637F;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.Buttoun-ai {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #007B5E;
+}
+
+pre {
+    background-color: #e9ecef;
+    padding: 10px;
+    border-radius: 5px;
+    white-space: pre-wrap;
+    font-size: 14px;
+    color: #333;
+    margin-top: 10px;
+}
+
+.message-box {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.user-message, .bot-message {
+    margin: 5px 0;
+}
+
+.user-message {
+    background-color: #0ACC95;
+    border-left: 5px solid #53637F;
+    color: #fff;
+    align-self: flex-end;
+}
+
+.bot-message {
+    border-left: 5px solid #53637F;
+    align-self: flex-start;
+    font-size:medium ;
+}
+
+.bot-intro {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.button-group button {
+    flex-grow: 1;
+    margin: 0 5px;
+    padding: 2px;
+    font-size: 13px;
+    background-color: #ffffff;
+    border: 1px solid #53637f;
+    color: #333;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button-group button:hover {
+    background-color: #53637F;
+    color: #ffffff;
+}
+
+.bot-logo {
+    width: 55px; /* Adjust the size as needed */
+    height:55px;
+    margin-right: 10px;
+}
+.message-box.bot-message {
+    display: flex;
+    align-items: center;
+}
