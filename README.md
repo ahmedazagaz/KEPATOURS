@@ -1,4 +1,4 @@
-<img src="kepatours image.png" border="0">
+<img src="kepatours-img.jpg" border="0">
 
 # Kepa Tours
 
