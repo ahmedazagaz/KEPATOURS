@@ -50,14 +50,13 @@ Explore the heart of KepaTours by learning about our team, the technologies that
 
 - **Node.js with Express**: Framework for building backend applications.
 - **MongoDB**: NoSQL database for flexible and scalable data management.
-- **LindyAI**: AI for budget-based trip planning and expense reports.
 - **JWT & Passport**: Authentication and authorization framework.
+- **Gemini AI API**: Advanced AI API for enhanced travel planning and assistance.
+
 
 ## Version Control and Collaboration
 
 - **GIT**: Version control system.
 - **GITHUB**: Platform for collaboration and code hosting.
 
-
-## Installation
 
