@@ -59,8 +59,8 @@ Explore the heart of KepaTours by learning about our team, the technologies that
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/ahmedazagaz/KepaTours-ai.git  
-   cd KepaTours-ai
+   git clone https://github.com/ahmedazagaz/KepaTours.git  
+   cd KepaTours
 
 2. **Install backend dependencies**
    
