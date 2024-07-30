@@ -38,7 +38,6 @@ Explore the heart of KepaTours by learning about our team, the technologies that
 
 - **React.js**: Library for building user interfaces.
 - **Axios**: HTTP client for API requests.
-- **Vite.js with TypeScript**: Fast frontend build tool.
 
 ## Back-End
 
