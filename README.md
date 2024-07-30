@@ -37,15 +37,13 @@ Explore the heart of KepaTours by learning about our team, the technologies that
 ## Front-End
 
 - **React.js**: Library for building user interfaces.
-- **Axios**: HTTP client for API requests.
 
 ## Back-End
 
 - **Node.js with Express**: Framework for building backend applications.
 - **MongoDB**: NoSQL database for flexible and scalable data management.
-- **JWT & Passport**: Authentication and authorization framework.
+- **JWT**
 - **Gemini AI API**: Advanced AI API for enhanced travel planning and assistance.
-
 
 ## Version Control and Collaboration
 
