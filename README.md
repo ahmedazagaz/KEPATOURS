@@ -1,16 +1,12 @@
-<img src="kepatours-img.jpg" border="0">
 
 # KepaTours: Explore Morocco with Ease
 
 ## Discover Morocco, One Trip at a Time with KepaTours
 
-### Demo
-
-[Visit KepaTours](http://kepatours.example.com/)
-
 ### Presentation
 
-![KepaTours Screenshot](https://example.com/kepatours-screenshot.png)
+<img src="kepatours-img.jpg" border="0">
+
 
 ## Welcome to KepaTours
 
