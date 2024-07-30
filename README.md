@@ -69,6 +69,24 @@ Explore the heart of KepaTours by learning about our team, the technologies that
  ```bash
   cd backend
   npm install
+  ```
+3. **Start the backend server**
+
+ ```bash
+npm start
+ ```
+4- **Install front-end dependencies**
+
+Navigate to the front-end directory and install the required packages:
+
+ ```bash
+cd ../frontend
+npm install
+ ```
+5-**Start the front-end server**
+ ```bash
+npm start
+```
 
 
 
