@@ -90,8 +90,7 @@ npm start
 
 ## Using KepaTours
 
-[<img src="kepatours-img.jpg" border="0">
-](https://github.com/ahmedazagaz/KepaTours/blob/64506862bf772994f49ba1df737738861b64e10f/frontend/src/assets/images/banner.jpg)
+![image](https://github.com/ahmedazagaz/KepaTours/blob/64506862bf772994f49ba1df737738861b64e10f/frontend/src/assets/images/banner.jpg)
 
 Welcome to KepaTours! Follow this step-by-step guide to optimize your experience with our travel booking platform:
 
