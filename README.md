@@ -61,4 +61,16 @@ Explore the heart of KepaTours by learning about our team, the technologies that
    ```bash
    git clone https://github.com/ahmedazagaz/KepaTours-ai.git  
    cd KepaTours-ai
+
+2. **Install backend dependencies**
    
+   Navigate to the backend directory and install the required packages:
+   
+ ```bash
+  cd backend
+  npm install
+
+
+
+
+
