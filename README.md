@@ -10,8 +10,6 @@
 
 ### Presentation
 
-[Watch KepaTours Presentation Video](https://www.youtube.com/watch?v=example)
-
 ![KepaTours Screenshot](https://example.com/kepatours-screenshot.png)
 
 ## Welcome to KepaTours
