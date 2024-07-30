@@ -42,12 +42,23 @@ Explore the heart of KepaTours by learning about our team, the technologies that
 
 - **Node.js with Express**: Framework for building backend applications.
 - **MongoDB**: NoSQL database for flexible and scalable data management.
-- **JWT**
+-**JSON Web Tokens (JWT)** : For secure user authentication and authorization.
 - **Gemini AI API**: Advanced AI API for enhanced travel planning and assistance.
+  
+## Tools
+
+**Postman:** Tool for testing API endpoints.
 
 ## Version Control and Collaboration
 
 - **GIT**: Version control system.
 - **GITHUB**: Platform for collaboration and code hosting.
 
+### Steps
 
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/yourusername/KepaTours-ai.git
+   cd KepaTours-ai
+   
