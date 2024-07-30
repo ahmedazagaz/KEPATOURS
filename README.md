@@ -73,7 +73,7 @@ Explore the heart of KepaTours by learning about our team, the technologies that
 3. **Start the backend server**
 
  ```bash
-npm start
+npm run start dev
  ```
 4- **Install front-end dependencies**
 
