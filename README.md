@@ -88,6 +88,33 @@ npm install
 npm start
 ```
 
+## Using KepaTours
+
+Welcome to KepaTours! Follow this step-by-step guide to optimize your experience with our travel booking platform:
+
+1. **Registration:**
+- Create your account by registering on our platform. Enter your personal information and choose a secure password to protect your account.
+
+2. **Plan Your Trip:**
+- Explore our various travel options to suit your every desire. Whether you are looking for a thrilling adventure or a relaxing getaway, select the trip that fits your preferences and budget.
+
+3. **Select Your Destination:**
+- Choose your destination in Morocco from our wide range of options. Whether you dream of sunny beaches, majestic mountains or historic cities, we have what you need.
+
+4. **Calculate Your Travel Budget:**
+- Use our calculator to estimate your travel budget. Enter your expected expenses for different aspects of your trip, such as accommodation, meals, and activities, to get an accurate estimate.
+
+5. **Generate an Expense Report:**
+- After planning your trip and calculating your budget, generate an expense report via LindyAI. This report will provide you with a detailed analysis and help you adjust your budget as needed.
+
+6. **Book Your Trip:**
+- Finalize your itinerary and proceed with the booking.
+
+8. **Kepa Support:**
+- Enjoy the support of our chatbot Kepa throughout your trip. He is here to answer your questions, help you with information about your destination, and provide you with personalized recommendations.
+
+Experience the magic of Morocco with KepaTours—your trip, your budget, your adventure!
+
 ## Author(s) LinkedIn
 - [Ahmed Azagaz](https://www.linkedin.com/in/ahmed-azagaz-0678b7281/)
 
