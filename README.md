@@ -10,7 +10,7 @@
 
 ## Welcome to KepaTours
 
-![image]https://github.com/ahmedazagaz/KepaTours/blob/1315b77406b56f02a5db611467e9e929119155bf/frontend/src/assets/images/logo.png
+![image](https://github.com/ahmedazagaz/KepaTours/blob/1315b77406b56f02a5db611467e9e929119155bf/frontend/src/assets/images/logo.png)
 
 KepaTours is your go-to travel booking platform designed to make exploring Morocco seamless and enjoyable. With our AI assistant Kepa, planning your trip has never been easier. Whether you're looking for cultural experiences, adventure trips, or relaxation, KepaTours is here to make your travel dreams come true.
 
